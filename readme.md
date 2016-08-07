@@ -25,7 +25,7 @@ Ou en éditant le fichier `composer.json`, tel que :
 
     {
     "require": {
-      "rypsx/ipapi": "^1.x"
+      "rypsx/ipapi": "^1.0"
     }
 
 ## [Voir un exemple de retour](#exretour)
@@ -71,7 +71,7 @@ Or by editing the `composer.json` file, such as:
 
     {
     "require": {
-      "rypsx/ipapi": "^1.x"
+      "rypsx/ipapi": "^1.0"
     }
 
 ## Packagist
