@@ -225,16 +225,4 @@ class IpRequest {
             $this->isp = (string) $isp;
         }
     }
-
-    /*
-     C DATA
-    public function setDescription($description)
-    {
-        if (empty($description)) {
-        	$this->erreur[] = self::DESC_INVALIDE;
-        } else {
-            $this->description = (string) explode(" | ", strip_tags($description))[0];
-        }
-    }
-    */
 }
