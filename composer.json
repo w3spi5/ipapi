@@ -1,0 +1,23 @@
+{
+    "name": "rypsx/ipapi",
+    "description": "Extract easily informations about IP adress",
+    "keywords": ["ipapi", "tool", "php", "api"],
+    "homepage": "https://github.com/rypsx/ipapi",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "nesbot/carbon": "^1.21"
+    },
+    "authors": [
+        {
+            "name": "Rypsx Dev",
+            "email": "info@rypsx.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Rypsx\\": "src/"
+        }
+    }
+}
