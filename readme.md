@@ -1,6 +1,8 @@
 IP-API.com PHP API
 =======================
 
+[![Latest Stable Version](https://poser.pugx.org/rypsx/ipapi/v/stable?format=flat-square)](https://packagist.org/packages/rypsx/ipapi) [![Total Downloads](https://poser.pugx.org/rypsx/ipapi/downloads?format=flat-square)](https://packagist.org/packages/rypsx/ipapi) [![License](https://poser.pugx.org/rypsx/ipapi/license?format=flat-square)](https://packagist.org/packages/rypsx/ipapi) [![Monthly Downloads](https://poser.pugx.org/rypsx/ipapi/d/monthly?format=flat-square)](https://packagist.org/packages/rypsx/ipapi)[![SensioLabsInsight](https://insight.sensiolabs.com/projects/064f9554-8e43-46f9-81bc-cd0a54002edc/mini.png)](https://insight.sensiolabs.com/projects/064f9554-8e43-46f9-81bc-cd0a54002edc)
+
 ### [Access to English version](#english)
 
 Ce package vous permet de récupérer facilement les informations sur une adresse IP renseignée.

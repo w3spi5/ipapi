@@ -10,4 +10,5 @@
 	    print $e->getMessage();
 	}
 
-	var_dump($ipapi);
+	// Test with debug :
+	// var_dump($ipapi);
